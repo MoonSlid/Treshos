@@ -1,5 +1,6 @@
 
 *{margin: 0;padding: 0;box-sizing: border-box;text-decoration: none;border: none;outline: none;scroll-behavior: smooth;font-family: 'Poppins', sans-serif;} 
+html {height: -webkit-fill-available;}
 @font-face {font-family: TT Rounds Neue Trial Extra Bold;src: url(fonts/TT\ Rounds\ Neue\ Trial\ ExtraBold.ttf);font-style: normal;font-weight: 100;} 
 .freckle-face-regular {font-family: "Freckle Face", system-ui;font-weight: 400;font-style: normal;}
 .schoolbell-regular {font-family: "Schoolbell", cursive;font-weight: 400;font-style: normal;}  
@@ -14,7 +15,7 @@
     --bg-color: #222;
     --black-bg: rgba(17, 17, 17, 0.7);
     --border: 0.2rem solid #29d9d5;} 
-body {background-color: #fefefe;background-repeat: no-repeat;background-position: center;background-attachment: fixed;background-size: cover;min-height: 100vh;}
+body {background-color: #fefefe;background-repeat: no-repeat;background-position: center;background-attachment: fixed;background-size: cover;min-height: 100vh;height: -webkit-fill-available;}
 /*LandingPage*/
 .wrapper-main {width: 100%;margin: 0 auto;} 
 section.sec2 {padding: 1rem;}
