@@ -301,8 +301,8 @@ html {font-size: 90%;}
 #box4 {left: 770px;padding-top: 80px;}
 .banner {min-height: 30vh;}
 .vid_set {height: 150vh;}
-/*.vid_set1 {height: 95vh;}
-.vid_set2 {height: 95vh;}*/
+.vid_set1 {height: 95vh;}
+.vid_set2 {height: 95vh;}
 .services-box video {height: 500px;width: 700px;}}
 @media all and (max-width: 880px){
 .popey h5 {padding-top: 0rem;line-height: 1;}
@@ -322,8 +322,8 @@ html {font-size: 90%;}
 #box3 {left: 60px;}  
 #box4 {left: 600px;padding-top: 110px;}
 #box5 {left: 180px;padding-top: 100px;}
-/*.vid_set1 {height: 85vh;}
-.vid_set2 {height: 85vh;}*/
+.vid_set1 {height: 85vh;}
+.vid_set2 {height: 85vh;}
 .services-box video {height: 420px;width: 600px;}}
 @media all and (max-width: 768px){ 
 html {font-size: 80%;} 
@@ -352,8 +352,8 @@ html {font-size: 80%;}
 #box5 {padding-top: 0px;}
 .banner {min-height: 25vh;}
 .vid_set {height: 100vh;padding: 2rem 8%;}
-/*.vid_set1 {height: 70vh;}
-.vid_set2 {height: 70vh;}*/
+.vid_set1 {height: 70vh;}
+.vid_set2 {height: 70vh;}
 .services-box video {height: 350px;width: 540px;}}
 @media all and (max-width: 660px){ 
 .btn_1{padding: 10px 15px;font-size: 10px;}
@@ -375,8 +375,8 @@ h2 {font-size: 2.5em;}
 #box3 {padding-top: 20px;left: 30px;}  
 #box4 {left: 500px;}
 #box5 {padding-top: 0px;}
-/*.vid_set1 {height: 65vh;}
-.vid_set2 {height: 65vh;}*/
+.vid_set1 {height: 65vh;}
+.vid_set2 {height: 65vh;}
 .services-box video {height: 320px;width: 470px;}}
 @media all and (max-width: 600px){
 html {font-size: 75%;} 
@@ -399,8 +399,8 @@ h2 {font-size: 2.5em;}
 .game {width: 400px;height: 400px;gap: 15px;padding-left: 10px;} 
 .item {width: 80px;height: 80px;}
 .vid_set {height: 80vh;padding: 1rem 8%;}
-/*.vid_set1 {height: 55vh;}
-.vid_set2 {height: 60vh;}*/
+.vid_set1 {height: 55vh;}
+.vid_set2 {height: 60vh;}
 .services-box video {height: 280px;width: 420px;}}
 @media all and (max-width: 530px){ 
 .popey {height: 120vh;} 
@@ -454,23 +454,23 @@ html {font-size: 60%;}
 .buybtn {padding-left: 67%;} 
 #box3 {display: none;}
 .vid_set {height: 70vh;}
-/*.vid_set1 {height: 45vh;}
-.vid_set2 {height: 50vh;}*/
+.vid_set1 {height: 45vh;}
+.vid_set2 {height: 50vh;}
 .services-box video {height: 260px;width: 380px;}}
 @media all and (max-width: 450px){
 html {font-size: 50%;}}
 @media all and (max-width: 425px){
 .buybtn {padding-left: 65%;}
 .vid_set {height: 60vh;padding: 0.5rem 8%;}
-/*.vid_set1 {height: 40vh;}*/
+.vid_set1 {height: 40vh;}
 .services-box video {height: 240px;width: 350px;}}
 @media all and (max-width: 375px){
 .btn_1{padding: 8px 10px;font-size: 9px;}
 .buybtn {padding-left: 67%;}
 .game {width: 400px;height: 350px;gap: 15px;padding-left: 35px;}
 .item {width: 70px;height: 70px;}
-.vid_set1 {/*height: 40vh;*/padding: 0rem 8%;} 
-/*.vid_set2 {height: 45vh;}*/
+.vid_set1 {height: 40vh;padding: 0rem 8%;} 
+.vid_set2 {height: 45vh;}
 .services-box video {height: 220px;width: 300px;}}
 @media all and (max-width: 320px){
 .buybtn {padding-left: 60%;}
@@ -479,6 +479,6 @@ html {font-size: 50%;}}
 .cotags ul li {width: 70px;height: 70px;}
 .game {width: 370px;height: 320px;gap: 10px;padding-left: 40px;}
 .item {width: 65px;height: 65px;}
-/*.vid_set1 {height: 35vh;}
-.vid_set2 {height: 40vh;}*/
+.vid_set1 {height: 35vh;}
+.vid_set2 {height: 40vh;}
 .services-box video {height: 200px;width: 265px;}}
